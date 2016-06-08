@@ -81,7 +81,7 @@ But it's only in the display so its perfect for a filter.
 
 So let's create another custom filter `DisplayNameFilter`.
 
-Create a new file under the filters folder named `displayNameFiler.js` and place that code inside:
+Create a new file under the filters folder named `displayNameFilter.js` and place that code inside:
 
 {{> DiffBox tutorialName="meteor-angular1-socially" step="13.10"}}
 
